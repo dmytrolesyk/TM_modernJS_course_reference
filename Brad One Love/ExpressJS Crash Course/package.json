@@ -1,0 +1,19 @@
+{
+  "name": "expressjscc",
+  "version": "1.0.0",
+  "description": "Learning basics of ExpressJS framework",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dmytro Lesyk",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-validator": "^5.3.1",
+    "mongojs": "^2.6.0",
+    "nodemon": "^1.18.9"
+  }
+}
